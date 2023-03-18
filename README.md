@@ -9,6 +9,6 @@ Streamlit is a popular open-source Python library that helps developers and data
 
 
 To view the Streamlit app on a browser, run the following command after making sure you are in the correct directory: 
-streamlit run StreamlitApp.py
+###### streamlit run StreamlitApp.py
 
 <img width="553" alt="Capture App" src="https://user-images.githubusercontent.com/100072520/226117024-355e5291-a86e-406b-8338-6c33178745bf.PNG">
